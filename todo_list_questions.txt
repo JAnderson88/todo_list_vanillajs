@@ -1,0 +1,9 @@
+1)  Make two columns that are evenly spaced with same amount of margin on both sides and have even spacing between them. How you acheive this is on you but please use vh/vw.
+
+2)Name the two columns "To Do" and "Done" respectively. Below the titles it should have an unordered list (<ul></ul>) to hold the list items. Each unordered list should have two list items already.
+
+3) Create a "Add todo" button that when clicked calls window.prompt to take in user information (if you don't know it research it on goolge). Once the user types in the information and clicks ok, a new todo item should show up in the TO DO column.
+
+4) Each list item in the To Do column should have a button that, when pressed, moves that item from the To Do column into the Done column. When the list item is now in the Done Column the button that sends it there should be removed.
+
+5)  Create a "Delete" Button that when pressed deletes the first item from the Done column.
